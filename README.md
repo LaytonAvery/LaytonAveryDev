@@ -1,7 +1,7 @@
-# newPortfolioSite
+# laytonavery.dev
 
 ## Purpose: 
-A work in progress, I am building a portfolio site for the purpose of featuring my projects.
+I'm updating my portfolio site. Check it out!
 
 ## Built with: 
 JavaScript, HTML, CSS, and Bootstrap
@@ -10,4 +10,4 @@ JavaScript, HTML, CSS, and Bootstrap
 ![](img/portfolioGIF.gif)
 
 ## Live Link:
-http://layton-avery.surge.sh/
+https://laytonavery.dev
